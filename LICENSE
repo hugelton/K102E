@@ -1,0 +1,75 @@
+Hügelton Public License
+Version 1.0
+
+1. Definitions
+
+1.1. "Contributor" means a person or entity that creates or supplies Covered Material and authorizes its licensing under this License.
+1.2. "Covered Material" means material expressly designated as subject to this License, modifications of that material, and new files containing copyright-protected portions of that material. Independently created files that contain no such portions are not Covered Material solely because they interoperate with it.
+1.3. "Source Form" means the preferred editable form of Covered Material, including source code, native design files, schematics, board layouts, mechanical models, documentation, and the associated configuration, build, fabrication and assembly information reasonably necessary to modify and reproduce the distributed material or Covered Product. General-purpose tools, independently licensed dependencies and credentials need not be supplied; necessary dependencies, versions and instructions must be identified, and any material required under this License must be supplied.
+1.4. "Non-Source Form" means any representation of Covered Material other than Source Form, including compiled binaries, flattened documents and fabrication exports that are not the preferred editable form.
+1.5. "Distribution" means supplying or making copies available to another person or entity. Transfers strictly within a single organization or its controlled affiliates, solely for their internal use, are excluded. Control means the power to direct management or policies, whether by ownership or otherwise.
+1.6. "Restricted Commercialization" means supplying Covered Material, or access to its substantial functionality, to third parties in exchange for direct or indirect economic consideration attributable to that supply or access, including sale, rental, subscription, paid hosting, mandatory support, paid feature access, advertising revenue attributable to such access, or inclusion as a material component of a paid product or service. Merely using Covered Material to produce independent goods or services is excluded. The exceptions in Section 3 apply.
+1.7. "You" means the person or entity exercising rights under this License.
+1.8. "Covered Product" means a physical or digital article made by reproducing or implementing a material portion of a design expressly licensed under this License, including a modified design, or an article materially incorporating Covered Material or such a design. An article does not become a Covered Product merely because a tool governed by this License was used to create it. Independently developed designs, standard components and unrelated articles are not Covered Products merely because they interoperate with Covered Material.
+1.9. References to Restricted Commercialization include offering, selling, leasing or otherwise supplying a Covered Product for consideration, whether directly, through an intermediary, or as a material component of a paid offering. Voluntary donations and the express exceptions in Section 3 remain permitted.
+
+2. Grants and conditions
+
+2.1. Subject to compliance with this License, each Contributor grants You a worldwide, nonexclusive, royalty-free copyright license, for the duration of the applicable rights, to use, reproduce, modify, display, perform, distribute and make available that Contributor's contributions, including in combination with other works, except for Restricted Commercialization.
+2.2. Subject to the same conditions, each Contributor grants You a worldwide, nonexclusive, royalty-free license under patent claims that the Contributor has authority to license and that are necessarily infringed by its contribution alone or in the version to which it contributed, to make, have made, use, import, distribute Covered Products and otherwise exercise the permitted rights. No patent rights are granted for infringement caused solely by other modifications or combinations outside that version.
+2.3. No trademark, service mark or endorsement rights are granted, except to the extent required to preserve notices. Rights not expressly granted are reserved. Nothing limits statutory exceptions or other rights independently available to You.
+2.4. Sections 3 and 4 are express conditions of the grants in this Section. Each Contributor represents that it believes it has authority to license its contribution. Recipients receive their rights directly from the relevant Contributors.
+
+3. Permitted activities and commercialization
+
+3.1. Use for any personal, educational, research, governmental or business purpose is permitted, including internal operation, manufacture and modification without publication. You may make or have made Covered Products for Your own internal use and distribute them without consideration subject to Section 4. A manufacturer may charge for fabrication or assembly performed solely on Your behalf, without acquiring a right to market or independently distribute the design or resulting products. The principal remains responsible for compliance; contractors may receive the necessary material solely for that purpose. Providing independent professional services using Covered Material, including design, manufacturing, consulting and instruction, is permitted.
+3.2. Voluntary donations and sponsorships are permitted, provided that payment is not required for access to Covered Material, its features or updates, and does not serve as disguised consideration for that access. Reasonable actual costs of copying and delivering files may be recovered without profit. This exception does not authorize selling Covered Products, including kits or assembled boards, at cost; commissioned fabrication under Section 3.1 remains permitted.
+3.3. Separately contracted support, training and customization services may be charged for where genuinely optional and not required to obtain or use Covered Material. A contractor may modify Covered Material on behalf of a client for that client's internal use; the contractor must supply the client with the corresponding Source Form under this License for any Covered Material delivered. This exception does not authorize selling software copies or operating a paid hosted software service.
+3.4. Independently created plugins and other independent works may be licensed and sold separately, provided that they do not contain Covered Material and that their sale is not a required payment for access to Covered Material. This does not authorize Restricted Commercialization of Covered Material in a combined product.
+3.5. This License does not attach to independent outputs produced using a tool governed by this License, including designs, drawings, rendered images, manufactured goods or data, merely because that tool was used. This exclusion does not apply to Covered Products or to material reproducing protected portions of Covered Material. Neither use of a file format nor compatibility with an interface alone brings an independent work within this License.
+3.6. Restricted Commercialization is not authorized absent a separate express written permission from all rightsholders whose permission is required, or their authorized representative. Such permission applies only within its stated scope.
+3.7. Rightsholders and Contributors are encouraged to consider commercialization requests in good faith, respond within a reasonable time where practicable, and seek mutually acceptable terms. This is a statement of policy, not an enforceable obligation to respond, negotiate or grant permission. No person may grant rights beyond their legal authority. Silence does not constitute consent.
+
+4. Distribution and source availability
+
+4.1. If You distribute Covered Material in Source Form, You must license that Covered Material under this License, provide a copy of this License and preserve applicable copyright, patent, attribution and legal notices. You must identify modified files or otherwise provide a reasonably accessible record of changes. You may correct factual inaccuracies without removing valid notices.
+4.2. If You distribute Non-Source Form, You must make the corresponding Source Form available to recipients at no more than actual delivery cost and inform them how to obtain it. Source must be available at the time of distribution and for at least three years after Your last distribution of that version, or be delivered alongside every copy. You may not impose terms that restrict rights in the corresponding Covered Material granted by this License.
+4.3. You may distribute independent works alongside Covered Material under their own terms, subject to Section 3 and compliance with this License for Covered Material. No provision authorizes relicensing Covered Material under a different license without the requisite rightsholder permission.
+4.4. If You make substantial functionality of a modified version of Covered Material available over a network to users outside Your organization, You must offer those users corresponding Source Form for the version used to provide that functionality, at no charge through a customary network mechanism. Internal network use is excluded. This obligation does not authorize Restricted Commercialization.
+4.5. Nothing requires You to distribute confidential data, user documents, keys or independent software merely because they are used with Covered Material. You may not use this exception to withhold corresponding Source Form.
+4.6. If mandatory law prevents compliance with a condition, this License does not authorize distribution or other activity requiring that condition to the extent compliance is impossible. Statutory rights remain unaffected.
+
+4.7. If You distribute a Covered Product outside Your organization, You must provide its recipients the corresponding Source Form of the Covered Material used in that product, including modifications, under the terms and availability rules of Sections 4.1 and 4.2. You must provide a reasonably accessible notice identifying the applicable design version and how to obtain its Source Form. Independently designed components need not be relicensed. A separate commercial permission may expressly vary these conditions.
+4.8. This License governs only rights that a Contributor can lawfully grant or condition. Restrictions on making or supplying physical products operate to the extent supported by applicable intellectual property rights or a legally enforceable agreement. Nothing in this License creates exclusive rights in unprotected ideas, functional principles, independently developed designs or articles otherwise lawfully acquired, or overrides mandatory exhaustion rules. Where a restriction depends on contractual assent rather than intellectual property rights, a binding agreement is required.
+
+5. Termination and reinstatement
+
+5.1. Rights under this License terminate automatically upon material noncompliance with an applicable condition. Upon cessation and correction of the violation, rights from a Contributor are provisionally reinstated unless that Contributor gives notice of termination. Rights are permanently reinstated if that Contributor does not notify You of the violation within sixty days after correction, or if this is Your first notice of violation from that Contributor and You correct it within thirty days of receipt. Reinstatement does not waive accrued claims.
+5.2. If You initiate patent litigation alleging that a Contributor's contribution or the version in which it was contributed infringes a patent, other than defensive counterclaims, patent licenses granted to You under this License terminate.
+5.3. Valid licenses of compliant downstream recipients do not terminate solely because Your rights terminate. Provisions concerning warranty, liability, dispute resolution and accrued obligations survive termination.
+
+6. Disclaimer of warranty
+
+To the maximum extent permitted by applicable law, Covered Material is provided AS IS and AS AVAILABLE, without warranties or conditions of any kind, express or implied, including title, noninfringement, merchantability, fitness for a particular purpose, accuracy, reliability, manufacturability and safety. No certification or compliance with technical or regulatory standards is implied. You bear the risk of use. Mandatory statutory warranties are not excluded.
+
+7. Limitation of liability
+
+To the maximum extent permitted by applicable law, no Contributor shall be liable for loss or damage arising from Covered Material, Covered Products or this License, whether in contract, tort or otherwise, including indirect, incidental, special or consequential damages, loss of data, revenue or profits. Nothing excludes or limits liability for fraud, intentional misconduct, gross negligence, personal injury or other liability to the extent exclusion or limitation is prohibited by applicable law.
+
+8. Applicable law and disputes
+
+Applicable law and jurisdiction shall be determined under the relevant rules of private international law, subject to mandatory protections and jurisdictional rules. Parties are encouraged to seek amicable resolution before litigation, without prejudice to urgent relief or statutory rights.
+
+9. General provisions
+
+This License constitutes the terms of the public grant for Covered Material. Separate written permissions may grant additional rights. If a provision is unenforceable, it shall be limited to the minimum extent necessary, or severed if necessary, without invalidating the remaining provisions. Failure to enforce a provision is not a waiver. No agency, partnership or duty to provide support is created by this License.
+
+10. Versions and application
+
+Hügelton Instruments is the steward of the official Hügelton Public License text. New versions must carry distinct version numbers. Covered Material remains governed by the version expressly designated by its rightsholders; a later version applies only if authorized by them. Modified license texts must use a different name and must not imply endorsement by the steward.
+
+Exhibit A — Application notice
+
+SPDX-License-Identifier: LicenseRef-HPL-1.0
+This file or designated material is governed by the Hügelton Public License, version 1.0.
+See the accompanying LICENSE file for the applicable terms.
